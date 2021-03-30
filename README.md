@@ -6,7 +6,6 @@
 ### バックエンド
 - Ruby 2.6.6  
 - Rails 6.0.3.4  
-- Laravel 8.32.1  
 
 ### データベース
 - PostgreSQL  
